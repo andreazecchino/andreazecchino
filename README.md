@@ -27,7 +27,6 @@ I design and build **backend systems and automation pipelines** focused on:
 - Cluster setup and node configuration
 - Deploying containerised workloads
 - Networking, Observability and Persistent Storage
-- Exploring Helm charts and GitOps patterns
 
 → https://github.com/andreazecchino/homelab
 

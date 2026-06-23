@@ -30,6 +30,18 @@ I design and build **backend systems and automation pipelines** focused on:
 
 → https://github.com/andreazecchino/homelab
 
+### LLM Inference on Constrained Hardware
+
+> End-to-end GitOps implementation for deploying efficient LLM inference on resource-constrained hardware, from code commit to production
+
+- Lightweight API layer with FastAPI
+- 4-bit quantized model inference (Ollama + Smollm2 360M)
+- Automated CI/CD pipeline with GitHub Actions and Docker
+- GitOps deployment with FluxCD to K3s homelab
+- Observability with Prometheus and Grafana
+
+→ https://github.com/andreazecchino/poc-py-llm
+
 ---
 
 ## Currently Exploring
@@ -38,3 +50,4 @@ I design and build **backend systems and automation pipelines** focused on:
 - GitOps workflows
 - Observability and Security best practices
 - Cilium CNI
+- AI + DevOps

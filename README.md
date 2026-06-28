@@ -1,6 +1,6 @@
 # Andrea Zecchino
 
-Backend Developer · Python · Node.js · Linux · Docker · Learning Kubernetes
+Backend Developer · Python · Node.js · Linux · Docker · Kubernetes
 
 Command line lover and Linux enthusiast building reliable backend systems with a DevOps mindset.
 

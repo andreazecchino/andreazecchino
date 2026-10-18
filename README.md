@@ -29,6 +29,7 @@ I design and build **backend systems and automation pipelines** focused on:
 - Networking, Observability and Persistent Storage
 
 → https://github.com/andreazecchino/homelab
+
 → https://github.com/andreazecchino/homelab-v2
 
 ### LLM Inference on Constrained Hardware
